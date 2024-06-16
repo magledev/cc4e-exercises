@@ -1,7 +1,6 @@
 # CC4E Exercises
 
-Example solutions to the exercises from C Programming for Everybody.
-[CC4E - C Programming for Everybody](https://www.cc4e.com/)
+Example solutions to the exercises from [CC4E - C Programming for Everybody](https://www.cc4e.com/)
 
 This course is generously provided FOC by [Dr. Charles R. Severance](https://www.dr-chuck.com/)
 
